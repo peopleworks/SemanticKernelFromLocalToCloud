@@ -44,7 +44,7 @@ This project showcases how to use Microsoft's Semantic Kernel with both **local*
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/semantic-kernel-from-local-to-cloud.git
+   git clone https://github.com/peopleworks/SemanticKernelFromLocalToCloud.git
    ```
 2. **Open the Project**
    - Navigate to the project directory and open it in Visual Studio or Visual Studio Code.
