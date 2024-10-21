@@ -97,6 +97,17 @@ Distributed under the **MIT License**. See `LICENSE` file for more information.
 - **Groq**: For being a part of the developer community.
 - **Meta**: For supporting open-source initiatives.
 
+
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
+
+
 ---
 
 *This README was generated to provide a comprehensive overview of the project, aiming to assist developers and contributors in understanding and utilizing the Semantic Kernel across various platforms.*
